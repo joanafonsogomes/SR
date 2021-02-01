@@ -1,5 +1,5 @@
 # SR
-Assignment of **Network Security** (Segurança em Redes), a course unit of the Specialization Profile in **Network Management and Virtualization** (Gestão e Virtualização de Redes). 2020/2021
+Assignment of **Network Security** (Segurança em Redes), a course unit of the specialization profile in **Network Management and Virtualization** (Gestão e Virtualização de Redes). 2020/2021
 
 - **[TP1](https://github.com/joanafonsogomes/SR/tree/main/TP1)**: Análise de Risco Simplificada
 - **[TP2](https://github.com/joanafonsogomes/SR/tree/main/TP2)**: Controlo de Acesso
